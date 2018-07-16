@@ -1,6 +1,8 @@
 # Leap Motion için Processing uygulamaları
 
 ## LEAP MOTION
+![leap_axes](https://user-images.githubusercontent.com/21055045/42754206-52127976-88fc-11e8-96b4-794d15c7a806.png)
+
 ### 1 LEAP MOTION NEDİR?
 Leap Motion, el hareketlerini algılayabilen bir cihazdır. Bilgisayarınıza USB yoluyla bağlanan
 cihaz, el hareketlerini algılayarak hiçbir şeye dokunmadan bilgisayarınızı kullanmaya
@@ -30,3 +32,6 @@ MacOS X 10.7 - Intel Core RAM 2 GB <br/>
 **Yükseklik:** 0.5 in <br/>
 **Derinlik:** 1.2 in <br/>
 **Ağırlık:** 1.6 oz <br/>
+
+![leap-motion-3d-motion-gesture-controller-10-large](https://user-images.githubusercontent.com/21055045/42754207-5235e776-88fc-11e8-9e63-255484dd7643.jpg)
+
